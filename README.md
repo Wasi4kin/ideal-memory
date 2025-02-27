@@ -1,1 +1,2 @@
-# ideal-memory
+# ideal-memor
+храню лоры для флакс
